@@ -1,4 +1,5 @@
-
+> ⚠️ **Important Note:** The backend is hosted on a free tier. Please allow 30 to 60 seconds for the initial server spin-up on the live link.
+> 
 # 🏢 Smart Complaint Management System
 
 A full-stack MERN application that allows college students to securely voice their concerns regarding college facilities, hostel maintenance, canteen food, and other amenities.
