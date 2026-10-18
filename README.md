@@ -4,7 +4,7 @@
 A full-stack MERN application that allows college students to securely voice their concerns regarding college facilities, hostel maintenance, canteen food, and other amenities.
 
 ## 🚀 Live Demo
-- **Frontend (Vercel):** [https://campusvoice-ten.vercel.app/]---
+- **Frontend (Vercel):** [https://campusvoice-ten.vercel.app/]
 
 ## ✨ Key Features
 - **Secure Authentication:** Implemented JWT (JSON Web Tokens) for safe user authentication and role-based authorization (Separate panels for Students and Admins).
